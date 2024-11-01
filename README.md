@@ -12,6 +12,7 @@ A simple Java-based console application implementing basic CRUD operations with 
 ### Prerequisites
 - Java Development Kit (JDK) 8 or later
 - MySQL Server
+- MySQL Connector/J 9.0.0 (latest)
 - IDE or text editor of your choice
 
 ### Database Setup
